@@ -46,6 +46,8 @@ icon = "fa-brands fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/fuhaowei/"
 
+uglyurls = false
+
 [menu]
 
   [[menu.main]]
