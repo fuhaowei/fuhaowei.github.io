@@ -23,7 +23,7 @@ sectionPagesMenu = "main"
 # Sidebar: about/bio
 [params.about]
 title = ""
-description = "[resume](/files/haowei_fu_resume.pdf) found here, email: fuhaowei8435@gmail.com"
+description = "[resume](/haowei_fu_resume_final.pdf) found here, email: fuhaowei8435@gmail.com"
 logo = "images/rice.svg"
 
 # Sidebar: social links
@@ -51,13 +51,13 @@ url = "https://www.linkedin.com/in/fuhaowei/"
   [[menu.main]]
     identifier = "play"
     name = "Play"
-    url = "/play/play"
+    url = "/play/"
     weight = 10
 
   [[menu.main]]
     identifier = "courses"
     name = "Courses"
-    url = "/courses/courses"
+    url = "/courses/"
     weight = 10
 
 [taxonomies]

@@ -8,22 +8,19 @@ draft: false
 I'm a rising senior studying Information Systems at Carnegie Mellon University, with an additional major in Computer Science. I'm originally from Singapore, but am currently based in Pittsburgh!
 
 ---
-&nbsp;
+<br>
 
-## Currently, I'm interested in: ##
-
+## Currently, I'm interested in: ## 
 <br>
 
 * Distributed systems and consensus
 * Cloud infrastructure and automation
 * Langchain, vector databases
 * The similarities between chinese and italian cuisine
-* Building bikes
+* Building bikes    
 
 ---
-
-&nbsp;
-
+<br>
 ## Work: ##
 
 * [Software Engineering Internship @ GovTech (2021)](www.google.com)
