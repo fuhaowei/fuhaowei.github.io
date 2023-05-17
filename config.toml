@@ -18,7 +18,7 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # Automatically add content sections to main menu
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 
 # Sidebar: about/bio
 [params.about]
@@ -53,13 +53,13 @@ uglyurls = false
   [[menu.main]]
     identifier = "play"
     name = "Play"
-    url = "/play/"
+    url = "/play"
     weight = 10
 
   [[menu.main]]
     identifier = "courses"
     name = "Courses"
-    url = "/courses/"
+    url = "/courses"
     weight = 10
 
 [taxonomies]
