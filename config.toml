@@ -12,6 +12,8 @@ noindex = false
 [params.theme]
 palette = "dracula"
 
+#i think it doesn't make sense for it to work
+
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456

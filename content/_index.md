@@ -5,7 +5,14 @@ draft: false
 ---
 
 \
-I'm a rising senior studying Information Systems at Carnegie Mellon University, with an additional major in Computer Science. I'm originally from Singapore, but am currently based in Pittsburgh!
+* I'm Hao Wei Fu, a software engineer with a major in Information Systems and additional major in Computer Science from Carnegie Mellon University.
+* I'm passionate about building scalable and robust distributed systems, and am currently searching for full time/internship opportunities in 2024!
+
+* My journey began at Razer, where I implemented MongoDB and Redis to capture unstructured gaming data, improving data pipeline efficiency and enhancing fraud detection.
+* At GovTech, I led the adoption of Amazon SQS for microservices, which significantly improved fault tolerance and reduced message processing times. I also developed a robust AWS Network Firewall architecture, enhancing network security for thousands of employees.
+* My experience at Yahoo allowed me to lead critical migration efforts and build new core functionalities from on-prem services to AWS. I also rewrote multiple Java microservices and implemented AWS Kinesis Streams, resulting in significant cost reductions and efficiency improvements.
+* Beyond my work experience, I've been involved in several innovative projects, such as the development of a Document Querying system with Langchain and OpenAI LLMs, and the design of a robust caching protocol for a distributed system.
+* As a certified AWS Developer Associate and AWS Cloud Certified Professional, I bring a wide range of programming skills to the table, including proficiency in Python, Java, Golang, C, SQL, and more.
 
 ---
 <br>
@@ -17,7 +24,7 @@ I'm a rising senior studying Information Systems at Carnegie Mellon University, 
 * Cloud infrastructure and automation
 * Langchain, vector databases
 * The similarities between chinese and italian cuisine
-* Building bikes    
+* Nature and adventures travelling
 
 ---
 <br>
