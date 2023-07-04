@@ -25,7 +25,7 @@ ignoreErrors = ["error-remote-getjson"]
 # Sidebar: about/bio
 [params.about]
 title = ""
-description = "[resume](/haowei_fu_resume_final.pdf) found here, email: fuhaowei8435@gmail.com"
+description = "[resume](https://drive.google.com/file/d/1dq1JNUf-U2j6onxjDQlmW08XZ6v5-tHT/view?usp=share_link) found here, email: fuhaowei8435@gmail.com"
 logo = "images/rice.svg"
 
 # Sidebar: social links
