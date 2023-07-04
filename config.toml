@@ -39,11 +39,6 @@ title = "GitHub"
 url = "https://github.com/fuhaowei"
 
 [[params.socialLinks]]
-icon = "fa-brands fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/blackswan8435"
-
-[[params.socialLinks]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/fuhaowei/"

@@ -3,9 +3,8 @@ title: Hello!
 date: 2023-05-15T16:39:25+08:00
 draft: false
 ---
-
-\
 * I'm Hao Wei Fu, a software engineer with a major in Information Systems and additional major in Computer Science from Carnegie Mellon University.
+
 * I'm passionate about building scalable and robust distributed systems, and am currently searching for full time/internship opportunities in 2024!
 
 * My journey began at Razer, where I implemented MongoDB and Redis to capture unstructured gaming data, improving data pipeline efficiency and enhancing fraud detection.
@@ -28,6 +27,7 @@ draft: false
 
 ---
 <br>
+
 ## Work: ##
 
 * [Software Engineering Internship @ GovTech (2021)](www.google.com)
