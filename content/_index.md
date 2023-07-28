@@ -4,8 +4,11 @@ date: 2023-05-15T16:39:25+08:00
 draft: false
 ---
 * Hi, I'm Hao Wei, a software engineer with a major in Information Systems and additional major in Computer Science from Carnegie Mellon University.
+
 * I'm passionate about building distributed systems and cloud infrastructure! Looking for full time roles in this area for 2024.
+
 * I've had previous software engineering internships completed at Yahoo, GovTech and Razer, with thorough experience in AWS and building microservices.
+
 * I love backpacking, anything in nature, biking, soccer and trying/cooking all types of cuisine. Do connect with me if we share any interests!
 
 ---
