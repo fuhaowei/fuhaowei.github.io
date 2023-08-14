@@ -21,7 +21,7 @@ draft: false
 * Cloud infrastructure and automation
 * Langchain, vector databases
 * The similarities between chinese and italian cuisine
-* Nature and adventures while travellign!
+* Adventuring and travelling (on a budget)
 
 ---
 <br>
