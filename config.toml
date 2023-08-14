@@ -1,4 +1,4 @@
-baseURL = 'http://fuhaowei.github.io/'
+baseURL = "https://fuhaowei.dev/"
 languageCode = 'en-us'
 title = 'fuhaowei'
 theme = 'risotto'
