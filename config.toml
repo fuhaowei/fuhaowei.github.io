@@ -72,3 +72,9 @@ series = "series"
     startLevel = 2
     endLevel   = 3
     ordered    = true
+
+outputFormats.CNAME.mediaType = "text/net"
+outputFormats.CNAME.baseName = "CNAME"
+outputFormats.CNAME.isPlainText = true
+outputFormats.CNAME.notAlternative = true
+outputs.home = ["HTML", "CNAME"]
