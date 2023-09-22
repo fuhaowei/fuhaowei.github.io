@@ -21,18 +21,13 @@ draft: false
 * Cloud infrastructure and automation
 * Langchain, vector databases
 * The similarities between chinese and italian cuisine
-* Adventuring and travelling (on a budget)
+* Adventuring and travelling (on a budget). Check out 
 
 ---
 <br>
 
-## Work: ##
-
-* [Software Engineering Internship @ GovTech (2021)](www.google.com)
-* [Software Engineering Internship @ Razer (2020)](www.google.com)
+## Work (to be updated): ##
 * [Research on Concentrated Liqudity Market Makers @ Algorand (2022)](https://github.com/AlgorandAMM/clmmamm/blob/main/Crypto_Project_Report.pdf)
 * [Open Source Contribution to Zulip (2022)](https://github.com/zulip/zulip/pull/23811#issuecomment-1371486818)
-* [Psst, have you heard this (2021)](www.google.com)
-* [Token Swapping Decentralized App (2022)](www.google.com)
 
 ---
